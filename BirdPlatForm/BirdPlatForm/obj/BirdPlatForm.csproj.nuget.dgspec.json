@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bird\\BirdPlatForm\\BirdPlatForm\\BirdPlatForm.csproj": {}
+    "C:\\Users\\thaoh\\Source\\Repos\\Bird\\BirdPlatForm\\BirdPlatForm\\BirdPlatForm.csproj": {}
   },
   "projects": {
-    "D:\\Bird\\BirdPlatForm\\BirdPlatForm\\BirdPlatForm.csproj": {
+    "C:\\Users\\thaoh\\Source\\Repos\\Bird\\BirdPlatForm\\BirdPlatForm\\BirdPlatForm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bird\\BirdPlatForm\\BirdPlatForm\\BirdPlatForm.csproj",
+        "projectUniqueName": "C:\\Users\\thaoh\\Source\\Repos\\Bird\\BirdPlatForm\\BirdPlatForm\\BirdPlatForm.csproj",
         "projectName": "BirdPlatForm",
-        "projectPath": "D:\\Bird\\BirdPlatForm\\BirdPlatForm\\BirdPlatForm.csproj",
-        "packagesPath": "C:\\Users\\TGC\\.nuget\\packages\\",
-        "outputPath": "D:\\Bird\\BirdPlatForm\\BirdPlatForm\\obj\\",
+        "projectPath": "C:\\Users\\thaoh\\Source\\Repos\\Bird\\BirdPlatForm\\BirdPlatForm\\BirdPlatForm.csproj",
+        "packagesPath": "C:\\Users\\thaoh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thaoh\\Source\\Repos\\Bird\\BirdPlatForm\\BirdPlatForm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\TGC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thaoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
