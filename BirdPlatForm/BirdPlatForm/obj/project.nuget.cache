@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AtYQrmVYNCIjPKBFqv8+Mx6r/GgD4yDG9nfaHn0v2bNmIb2AaqvZz+xLT6sYKqxHr4EuGWl0OMt0FVcySL7edQ==",
+  "dgSpecHash": "jCicSfCUSxonFP+bNiaci2JdIu+D7fQbBUdjcvT0cNiN3gWjsSHb47mKlgvYk/CRz5xyy3ts/mDalI9vahtjPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TGC\\Source\\Repos\\Bird\\BirdPlatForm\\BirdPlatForm\\BirdPlatForm.csproj",
+  "projectFilePath": "D:\\Bird\\BirdPlatForm\\BirdPlatForm\\BirdPlatForm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TGC\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\TGC\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
