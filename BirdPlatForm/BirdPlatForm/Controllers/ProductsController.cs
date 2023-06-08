@@ -49,6 +49,19 @@ namespace BirdPlatForm.Controllers
             return Ok(product);
             }
 
+
+        [HttpGet("Product_ShopId")]
+        public async Task<IActionResult> GetProductByShopId(int shopId)
+        {
+            var product = await _homeViewProductService.GetProductByShopId(shopId);
+            if (product == null)
+
+                return BadRequest("Cannot find product");
+
+            return Ok(product);
         }
+
+
+    }
     }
 
