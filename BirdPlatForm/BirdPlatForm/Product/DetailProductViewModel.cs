@@ -22,7 +22,7 @@
 
         public int? ShopId { get; set; }
 
-        public string ShopName { get; set; } = null!;
+        
 
         public int? Rate { get; set; }
 
