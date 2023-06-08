@@ -1,4 +1,5 @@
 using BirdPlatForm.BirdPlatform;
+using BirdPlatForm.Product;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -40,6 +41,7 @@ builder.Services.AddAuthentication(option =>
     };
 
 });
+builder.Services.AddScoped<IHomeViewProductService, HomeViewProductService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

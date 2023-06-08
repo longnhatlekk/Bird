@@ -15,7 +15,7 @@ public partial class TbPost
 
     public string? Description { get; set; }
 
-    public DateTime? CreateDate { get; set; }
+    public DateTime? CreateDate { get; set; }= DateTime.Now;
 
     public string? CreateBy { get; set; }
 
