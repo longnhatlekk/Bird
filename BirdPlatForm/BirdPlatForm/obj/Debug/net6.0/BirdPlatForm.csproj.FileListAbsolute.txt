@@ -174,3 +174,8 @@ D:\SourceGit\Bird\BirdPlatForm\BirdPlatForm\obj\Debug\net6.0\refint\BirdPlatForm
 D:\SourceGit\Bird\BirdPlatForm\BirdPlatForm\obj\Debug\net6.0\BirdPlatForm.pdb
 D:\SourceGit\Bird\BirdPlatForm\BirdPlatForm\obj\Debug\net6.0\BirdPlatForm.genruntimeconfig.cache
 D:\SourceGit\Bird\BirdPlatForm\BirdPlatForm\obj\Debug\net6.0\ref\BirdPlatForm.dll
+D:\SourceGit\Bird\BirdPlatForm\BirdPlatForm\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\SourceGit\Bird\BirdPlatForm\BirdPlatForm\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\SourceGit\Bird\BirdPlatForm\BirdPlatForm\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\SourceGit\Bird\BirdPlatForm\BirdPlatForm\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\SourceGit\Bird\BirdPlatForm\BirdPlatForm\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
